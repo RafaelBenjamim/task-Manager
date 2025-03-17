@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|d:\\github\\taskmanager\\taskmanager\\models\\entitys\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\entitys\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|d:\\github\\taskmanager\\taskmanager\\models\\entitys\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\entitys\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|d:\\github\\taskmanager\\taskmanager\\enums\\etaskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\enums\\etaskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|d:\\github\\taskmanager\\taskmanager\\infrastruct\\context\\taskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\infrastruct\\context\\taskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|d:\\github\\taskmanager\\taskmanager\\core\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\core\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|d:\\github\\taskmanager\\taskmanager\\core\\taskapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\core\\taskapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|d:\\github\\taskmanager\\taskmanager\\core\\interfaces\\itaskinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\core\\interfaces\\itaskinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|d:\\github\\taskmanager\\taskmanager\\core\\interfaces\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\core\\interfaces\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|d:\\github\\taskmanager\\taskmanager\\models\\entitys\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6652049B-7424-4D30-B666-6230598B02FF}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\entitys\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ETaskStatus.cs",
+              "DocumentMoniker": "D:\\Github\\TaskManager\\TaskManager\\Enums\\ETaskStatus.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Enums\\ETaskStatus.cs",
+              "ToolTip": "D:\\Github\\TaskManager\\TaskManager\\Enums\\ETaskStatus.cs",
+              "RelativeToolTip": "TaskManager\\Enums\\ETaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:31:52.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskManagerContext.cs",
+              "DocumentMoniker": "D:\\Github\\TaskManager\\TaskManager\\Infrastruct\\Context\\TaskManagerContext.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Infrastruct\\Context\\TaskManagerContext.cs",
+              "ToolTip": "D:\\Github\\TaskManager\\TaskManager\\Infrastruct\\Context\\TaskManagerContext.cs",
+              "RelativeToolTip": "TaskManager\\Infrastruct\\Context\\TaskManagerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:23:02.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\Github\\TaskManager\\TaskManager\\Models\\Entitys\\Response.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Entitys\\Response.cs",
+              "ToolTip": "D:\\Github\\TaskManager\\TaskManager\\Models\\Entitys\\Response.cs",
+              "RelativeToolTip": "TaskManager\\Models\\Entitys\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:15:48.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskEntity.cs",
+              "DocumentMoniker": "D:\\Github\\TaskManager\\TaskManager\\Models\\Entitys\\TaskEntity.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Entitys\\TaskEntity.cs",
+              "ToolTip": "D:\\Github\\TaskManager\\TaskManager\\Models\\Entitys\\TaskEntity.cs",
+              "RelativeToolTip": "TaskManager\\Models\\Entitys\\TaskEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:15:16.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\Github\\TaskManager\\TaskManager\\Models\\Entitys\\UserEntity.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\Entitys\\UserEntity.cs",
+              "ToolTip": "D:\\Github\\TaskManager\\TaskManager\\Models\\Entitys\\UserEntity.cs",
+              "RelativeToolTip": "TaskManager\\Models\\Entitys\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:15:09.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskApplication.cs",
+              "DocumentMoniker": "D:\\Github\\TaskManager\\TaskManager\\Core\\TaskApplication.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Core\\TaskApplication.cs",
+              "ToolTip": "D:\\Github\\TaskManager\\TaskManager\\Core\\TaskApplication.cs",
+              "RelativeToolTip": "TaskManager\\Core\\TaskApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:14:47.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITaskInterface.cs",
+              "DocumentMoniker": "D:\\Github\\TaskManager\\TaskManager\\Core\\Interfaces\\ITaskInterface.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Core\\Interfaces\\ITaskInterface.cs",
+              "ToolTip": "D:\\Github\\TaskManager\\TaskManager\\Core\\Interfaces\\ITaskInterface.cs",
+              "RelativeToolTip": "TaskManager\\Core\\Interfaces\\ITaskInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:13:32.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserInterface.cs",
+              "DocumentMoniker": "D:\\Github\\TaskManager\\TaskManager\\Core\\Interfaces\\IUserInterface.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Core\\Interfaces\\IUserInterface.cs",
+              "ToolTip": "D:\\Github\\TaskManager\\TaskManager\\Core\\Interfaces\\IUserInterface.cs",
+              "RelativeToolTip": "TaskManager\\Core\\Interfaces\\IUserInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:12:39.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserApplication.cs",
+              "DocumentMoniker": "D:\\Github\\TaskManager\\TaskManager\\Core\\UserApplication.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Core\\UserApplication.cs",
+              "ToolTip": "D:\\Github\\TaskManager\\TaskManager\\Core\\UserApplication.cs",
+              "RelativeToolTip": "TaskManager\\Core\\UserApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:12:11.455Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
