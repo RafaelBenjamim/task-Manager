@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\taskManager\\TaskManager\\TaskManager.csproj": {}
+    "D:\\Github\\TaskManager\\TaskManager\\TaskManager.csproj": {}
   },
   "projects": {
-    "D:\\Github\\taskManager\\TaskManager\\TaskManager.csproj": {
+    "D:\\Github\\TaskManager\\TaskManager\\TaskManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\taskManager\\TaskManager\\TaskManager.csproj",
+        "projectUniqueName": "D:\\Github\\TaskManager\\TaskManager\\TaskManager.csproj",
         "projectName": "TaskManager",
-        "projectPath": "D:\\Github\\taskManager\\TaskManager\\TaskManager.csproj",
+        "projectPath": "D:\\Github\\TaskManager\\TaskManager\\TaskManager.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
         "outputPath": "D:\\Github\\TaskManager\\TaskManager\\obj\\",
         "projectStyle": "PackageReference",
@@ -67,6 +67,16 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[7.3.1, )"
             }
           },
           "imports": [
