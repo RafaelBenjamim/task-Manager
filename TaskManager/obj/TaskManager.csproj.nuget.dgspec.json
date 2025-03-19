@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\TaskManager\\TaskManager\\TaskManager.csproj": {}
+    "D:\\Github\\taskManager\\TaskManager\\TaskManager.csproj": {}
   },
   "projects": {
-    "D:\\Github\\TaskManager\\TaskManager\\TaskManager.csproj": {
+    "D:\\Github\\taskManager\\TaskManager\\TaskManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\TaskManager\\TaskManager\\TaskManager.csproj",
+        "projectUniqueName": "D:\\Github\\taskManager\\TaskManager\\TaskManager.csproj",
         "projectName": "TaskManager",
-        "projectPath": "D:\\Github\\TaskManager\\TaskManager\\TaskManager.csproj",
+        "projectPath": "D:\\Github\\taskManager\\TaskManager\\TaskManager.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\TaskManager\\TaskManager\\obj\\",
+        "outputPath": "D:\\Github\\taskManager\\TaskManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,9 +74,9 @@
               "target": "Package",
               "version": "[9.0.3, )"
             },
-            "Swashbuckle.AspNetCore.Swagger": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[7.3.1, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [

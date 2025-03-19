@@ -165,3 +165,6 @@ D:\Github\taskManager\TaskManager\obj\Debug\net9.0\refint\TaskManager.dll
 D:\Github\taskManager\TaskManager\obj\Debug\net9.0\TaskManager.pdb
 D:\Github\taskManager\TaskManager\obj\Debug\net9.0\TaskManager.genruntimeconfig.cache
 D:\Github\taskManager\TaskManager\obj\Debug\net9.0\ref\TaskManager.dll
+D:\Github\taskManager\TaskManager\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github\taskManager\TaskManager\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Github\taskManager\TaskManager\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
